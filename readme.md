@@ -1,28 +1,20 @@
-<h2>Funkce</h2>
-pohyb v prostoru klávesnicí a myší 
+# Simple 3D app
+Práce vytvořena v rámci školního projektu.
 
-shadery a texture 
+## Funkce
+- Pohyb v prostoru pomocí klávesnice a myši.
+- Shadery a textury.
+- Pohyblivé objekty.
+- Direction light(slunce), ambient, a 3 pointlighty i odlesky (specular).
+- Využití kamery pro posouvání králíka po ploše (na kameře se hledá zelená barva).
+- Kolize s prostředím.
+- Průhlednost objektů (parametr material.transparency se posílá do shaderů).
+- Core profile je nastavený.
 
-pohyblivé objekty 
-
-direction light(slunce), ambient, a 3 pointlighty i odlesky (specular)
-
-využití kamery pro posouvání králíka po ploše (na kameře se hledá zelená barva) 
-
-kolize s prostředím
-
-průhlednost objektů (parametr material.transparency se posílá do shaderů)
-
-core profile je nastavený
-
-<h2>Ovládání</h2>
-
-Pohyb: W S A D 
-
-Fov: mouse scroll  
-
-Nahoru/Dolu: Space down: Ctrl
-
-Exit Game: ESC
-
-Window Mode [Window / Full Screen]: F11
+## Ovládání
+- Pohyb: WASD 
+- Fov: kolečko myši 
+- Vzlétnutí nahoru: mezerník
+- Sestoupení níže: ctrl
+- Ukončení: ESC
+- Režim celé obrazovky: F11
