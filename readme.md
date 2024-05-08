@@ -1,4 +1,4 @@
-# Simple 3D app
+# 3D app
 Práce vytvořena v rámci školního projektu.
 
 ## Funkce
